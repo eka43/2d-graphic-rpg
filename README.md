@@ -8,6 +8,14 @@ Chai Samil - Senior Programmer<br />
 Chai's number - 77eight96eight471eight<br />
 If you want to see the whole code, you should contact Chai and get his permission.<br />
 
+# How to play
+* A user can move own character by pressing w,a,s,d keys.
+* Click is an attacking.
+* Monster is following a user's character.
+
+# Skills
+Java
+
 # copyright
 Items, weapons’ sprites:
 http://ratemyserver.net<br />
