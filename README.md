@@ -10,10 +10,10 @@ If you want to see the whole code, you should contact Chai and get his permissio
 
 # How to play
 * Click the 'start' button.
-* A user can moves own character by pressing w,a,s,d keys.
+* A user can move own characters by pressing w,a,s,d keys.
 * Click is an attacking.
-* Monsters is following a user's character.
-* The monster's hp bar will be decreased when a user's character throws a knife.
+* Monster is following a user's character.
+* The monster's hp bar will decrease when a character throws a knife.
 
 # Skills
 Java
